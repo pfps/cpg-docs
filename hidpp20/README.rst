@@ -185,7 +185,7 @@ Feature List
     - ``0x8020`` Gaming M-keys
     - ``0x8030`` MacroRecord, MR Key
     - ``0x8040`` Brightness control
-    - ``0x8060`` Adjustable Report Rate
+    - ``0x8060`` `Adjustable Report Rate <features/0x8060-ReportRate.rst>`_
     - ``0x8070`` Color LED Effects
     - ``0x8071`` RGB Effects
     - ``0x8080`` Per Key Lighting
